@@ -2,6 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning(Changed For Deployment)</h1>
     <p>Please fill in this form to create an account.(automate build and deploy)</p>
+    <p>application hosted on docker and automated pipeline</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
