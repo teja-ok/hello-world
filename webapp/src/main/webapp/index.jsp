@@ -5,6 +5,7 @@
     <p>application hosted on docker and automated pipeline</p>
     <p>integrated ansible with docker and automated<p/>
     <p>fixed some errors</p>
+    <p>everything done</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
